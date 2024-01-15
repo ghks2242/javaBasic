@@ -2,7 +2,7 @@ package access.memory;
 
 public class JavaMemoryMain2 {
 
-    public static vopid main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("main start");
         method1();
         System.out.println("main end");
