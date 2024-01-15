@@ -1,4 +1,4 @@
-package ref.construct;
+package construct;
 
 public class MemberInit {
     String name;
