@@ -10,5 +10,8 @@ public class CastingMain3 {
 
         parent1.parentMethod();
         parent2.parentMethod();
+
+
+
     }
 }
